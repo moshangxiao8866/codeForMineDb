@@ -95,7 +95,7 @@ public class ProviderAppMain {
 
 
         // 定时任务插件
-        new QuartzPlugin().start();
+//        new QuartzPlugin().start();
 
         System.out.println("Code for my Db 启动完成。");
 
