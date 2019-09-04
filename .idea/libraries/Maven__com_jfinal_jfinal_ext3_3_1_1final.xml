@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jfinal:jfinal-ext3:3.1.1final">
+    <CLASSES>
+      <root url="jar://E:/Documents/.m2/repo/com/jfinal/jfinal-ext3/3.1.1final/jfinal-ext3-3.1.1final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/Documents/.m2/repo/com/jfinal/jfinal-ext3/3.1.1final/jfinal-ext3-3.1.1final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/Documents/.m2/repo/com/jfinal/jfinal-ext3/3.1.1final/jfinal-ext3-3.1.1final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
